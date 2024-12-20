@@ -7,4 +7,5 @@ public class ConstructorInit {
     public ConstructorInit(int value) {
         this.value = value;
     }
+
 }
